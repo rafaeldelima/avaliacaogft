@@ -58,19 +58,25 @@ Tipo Prato        | Manha         | Noite  |
 # Exemplos de entradas e saidas:
 
 Input: manha, 1, 2, 3, 4
+
 Output: ovos, torrada, cafe, erro de impressao
 
 Input: manha, 1, 2, 3
+
 Output: ovos, torrada, cafe
 
 Input: manha, 2, 1, 3
+
 Output: ovos, torrada, cafe
 
 Input: manha, 1, 2, 3, 3, 3
+
 Output: ovos, torrada, cafe(x3)
 
 Input: noite, 1, 2, 3, 4
+
 Output: bife, batata, vinho, bolo
 
 Input: noite, 1, 2, 2, 4
+
 Output bife, batata(x2), bolo
