@@ -45,9 +45,13 @@ erro de impressão
 
 Tipo Prato        | Manha         | Noite  |
 --------------------------------------------
+
 1 Entrada         | Ovos          | Bife   |
+
 2 Acompanhamento  | Torrada       | Batata |
+
 3 Bebida          | Café          | Vinho  |
+
 4 Sobremesa       | Indisponível  | Bolo   |
 
 
