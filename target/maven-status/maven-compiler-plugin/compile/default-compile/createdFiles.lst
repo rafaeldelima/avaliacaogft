@@ -1,0 +1,16 @@
+com\gft\avaliacao\rules\Rule.class
+com\gft\avaliacao\commons\Cardapio.class
+com\gft\avaliacao\commons\Pedido.class
+com\gft\avaliacao\commons\CardapioManha.class
+com\gft\avaliacao\service\PedidoImpressao.class
+com\gft\avaliacao\rules\RulePedidoDuplicado.class
+com\gft\avaliacao\constantes\ConstantesPedido.class
+com\gft\avaliacao\rules\RulePeloMenosUmItem.class
+com\gft\avaliacao\commons\Prato.class
+com\gft\avaliacao\helper\PedidoHelper.class
+com\gft\avaliacao\commons\TipoPrato.class
+com\gft\avaliacao\commons\CardapioNoite.class
+com\gft\avaliacao\service\ConsistenciaPedido.class
+com\gft\avaliacao\avaliacaogft\App.class
+com\gft\avaliacao\service\PedidoService.class
+com\gft\avaliacao\rules\RuleStringEntrada.class
